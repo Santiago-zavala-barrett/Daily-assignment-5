@@ -1,11 +1,11 @@
 .text {
-    color: blueviolet;
-    font-family: "Times New Roman", sans-serif;
-    font-size: 120%;
+  color: blueviolet;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 120%;
 }
 
 #text-id {
-    font-family: "Times New Roman", sans-serif;
-    font-size: 120%;
-    color: aqua;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 120%;
+  color: aqua;
 }
